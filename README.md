@@ -14,6 +14,7 @@
 - ResNeXt
 - MobileNetV3
 - EfficientNet
+- SqueezeNet
 - VisionTransformer
 - SwinTransformer
 - SwinTransformerV2
