@@ -8,8 +8,8 @@
 - MobileNetV1
 - MobileNetV2
 - ShuffleNet
-## 구현 예정
 - Inception V2, V3
+## 구현 예정
 - Inception V4
 - ResNeXt
 - MobileNetV3
