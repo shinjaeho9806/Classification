@@ -8,8 +8,8 @@
 - MobileNetV1
 - MobileNetV2
 - ShuffleNet
-- Inception V2
-- Inception V3
+- InceptionV2
+- InceptionV3
 ## 구현 예정
 - Inception V4
 - ResNeXt
@@ -19,5 +19,4 @@
 - VisionTransformer
 - SwinTransformer
 - SwinTransformerV2
-
 ## trainer.py와 train.py는 모형구현 완료 후 구현될 예정입니다.
