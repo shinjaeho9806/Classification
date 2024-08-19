@@ -3,6 +3,7 @@
 ## 구현 완료
 - VGGNet
 - ResNet
+- ResNeXt
 - GoogleNet
 - DenseNet
 - MobileNetV1
@@ -12,7 +13,6 @@
 - InceptionV3
 ## 구현 예정
 - Inception V4
-- ResNeXt
 - MobileNetV3
 - EfficientNet
 - SqueezeNet
