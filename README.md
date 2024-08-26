@@ -13,9 +13,13 @@
 - MobileNetV3
 - ShuffleNet
 ## 구현 예정
+- Inception-resnet
 - Inception V4
 - EfficientNet
+- EfficientNet-lite
+- EfficientNetV2
 - SqueezeNet
+- ShuffleNetV2
 - VisionTransformer
 - SwinTransformer
 - SwinTransformerV2
