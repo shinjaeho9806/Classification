@@ -5,13 +5,13 @@
 - ResNet
 - ResNeXt
 - GoogleNet
+- InceptionV2
+- InceptionV3
 - DenseNet
 - MobileNetV1
 - MobileNetV2
 - MobileNetV3
 - ShuffleNet
-- InceptionV2
-- InceptionV3
 ## 구현 예정
 - Inception V4
 - EfficientNet
