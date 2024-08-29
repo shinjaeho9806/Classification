@@ -11,11 +11,11 @@
 - MobileNetV1
 - MobileNetV2
 - MobileNetV3
+- EfficientNet
 - ShuffleNet
 ## 구현 예정
 - Inception-resnet
 - Inception V4
-- EfficientNet
 - EfficientNet-lite
 - EfficientNetV2
 - SqueezeNet
